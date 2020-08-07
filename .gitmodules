@@ -4,3 +4,6 @@
 [submodule "second_review"]
 	path = second_review
 	url = https://github.com/RaeRachael/second-review-Makers
+[submodule "second"]
+	path = second
+	url = https://github.com/RaeRachael/second-review-Makers
